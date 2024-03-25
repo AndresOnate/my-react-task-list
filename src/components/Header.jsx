@@ -1,6 +1,13 @@
+import { TodoAdd } from "./TodoAdd";
+
 function Header() {
   return (
-    <h1>Todo App</h1>
+    <div className="header">
+      <h1>ToDo App</h1>
+    </div>
+    
+
+    
   );
 }
 
